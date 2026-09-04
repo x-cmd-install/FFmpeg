@@ -1,0 +1,73 @@
+about:
+  description: Mirror of https://git.ffmpeg.org/ffmpeg.git
+  license: NOASSERTION
+  homepage: https://ffmpeg.org/
+  head: 818e5d9
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-04T04:42:03Z
+timeline:
+  created: 2011-04-14
+  lastCommit: 2026-09-03
+  lastRelease: ?
+popularity:
+  star: 63940
+  watcher: 1533
+  fork: 14229
+  release: 0
+  contributor: 1561
+  pullRequest: 0
+  issue: 0
+language:
+  C: 70298214
+  Assembly: 6571725
+  Makefile: 1111581
+  GLSL: 313533
+  C++: 233836
+  Objective-C: 117660
+  Cuda: 102547
+  Shell: 78276
+  Perl: 38255
+  JavaScript: 34675
+  Python: 11523
+  CSS: 10294
+  HTML: 8500
+  Metal: 7961
+  Awk: 1912
+  Ruby: 1462
+  Verilog: 638
+  Roff: 33
+totalLine: 78942625
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 272
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 1219
+  last180d:
+    since: 2026-03-08
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 2581
+  last360d:
+    since: 2025-09-09
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 4947
