@@ -2,24 +2,24 @@ about:
   description: "Mirror of https://git.ffmpeg.org/ffmpeg.git"
   license: NOASSERTION
   homepage: https://ffmpeg.org/
-  head: ecc7eb5
+  head: e4ed85a
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T05:58:12Z
+  collectedAt: 2026-09-07T18:35:38Z
 timeline:
   created: 2011-04-14
   lastCommit: 2026-09-07
   lastRelease: 
 popularity:
-  star: 64001
-  watcher: 1535
-  fork: 14237
+  star: 64017
+  watcher: 1536
+  fork: 14240
   release: 0
   contributor: 1561
   pullRequest: 0
   issue: 0
 language:
-  C: 70315323
+  C: 70315368
   Assembly: 6572142
   Makefile: 1113693
   GLSL: 313533
@@ -37,7 +37,7 @@ language:
   Ruby: 1462
   Verilog: 638
   Roff: 33
-totalBytes: 78962269
+totalBytes: 78962314
 recent:
   last30d:
     since: 2026-08-08
@@ -46,7 +46,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 188
+    commit: 189
   last60d:
     since: 2026-07-09
     release: 0
@@ -54,7 +54,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 601
+    commit: 602
   last90d:
     since: 2026-06-09
     release: 0
@@ -62,7 +62,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 1135
+    commit: 1136
   last180d:
     since: 2026-03-11
     release: 0
@@ -70,7 +70,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 2524
+    commit: 2525
   last360d:
     since: 2025-09-12
     release: 0
@@ -78,7 +78,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 4916
+    commit: 4917
   last720d:
     since: 2024-09-17
     release: 0
@@ -86,20 +86,20 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 9395
+    commit: 9396
 total:
   release: 0
   mergedPR: 0
   openPR: 0
   closedIssue: 0
   openIssue: 0
-  commit: 126456
+  commit: 126457
 ---
 path: /home/runner/.x-repo/github.com/FFmpeg/FFmpeg
-collectedAt: 2026-09-07T05:59:43Z
+collectedAt: 2026-09-07T18:37:25Z
 loc:
   C:
-    code: 1252124
+    code: 1252126
     comments: 127648
     blanks: 196220
     files: 3431
@@ -219,7 +219,7 @@ loc:
     blanks: 633
     files: 23
 total:
-  code: 1623932
+  code: 1623934
   comments: 223645
   blanks: 244641
   files: 5459
@@ -314,7 +314,7 @@ checks:
       - 'Info: Possibly incomplete results: error parsing shell code: "for foo" must be followed by "in", "do", ;, or a newline: tools/patcheck:0'
 ---
 eget:
-  collectedAt: 2026-09-07T05:59:49+00:00
+  collectedAt: 2026-09-07T18:38:09+00:00
   platform:
     darwin/arm64:
       name:  null
