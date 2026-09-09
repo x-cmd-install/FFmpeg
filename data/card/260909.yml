@@ -316,3 +316,4 @@ checks:
     details:
       - 'Info: Possibly incomplete results: error parsing shell code: invalid UTF-8 encoding: tools/clean-diff:0'
       - 'Info: Possibly incomplete results: error parsing shell code: "for foo" must be followed by "in", "do", ;, or a newline: tools/patcheck:0'
+---
