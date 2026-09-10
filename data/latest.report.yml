@@ -2,12 +2,12 @@ about:
   description: "Mirror of https://git.ffmpeg.org/ffmpeg.git"
   license: NOASSERTION
   homepage: https://ffmpeg.org/
-  head: 266fff1
+  head: 3a165c7
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:05:17Z
+  collectedAt: 2026-09-10T23:53:09Z
 timeline:
   created: 2011-04-14
   lastCommit: 2026-09-10
@@ -15,17 +15,17 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 64106
+  star: 64110
   watcher: 1536
-  fork: 14251
+  fork: 14252
   release: 0
   contributor: 1562
   pullRequest: 0
   issue: 0
 language:
-  C: 70324733
+  C: 70351104
   Assembly: 6574777
-  Makefile: 1115922
+  Makefile: 1131762
   GLSL: 313533
   C++: 233836
   Objective-C: 117660
@@ -41,7 +41,7 @@ language:
   Ruby: 1462
   Verilog: 638
   Roff: 33
-totalBytes: 78976543
+totalBytes: 79018754
 recent:
   last30d:
     since: 2026-08-11
@@ -58,7 +58,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 639
+    commit: 640
   last90d:
     since: 2026-06-12
     release: 0
@@ -66,7 +66,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 1173
+    commit: 1174
   last180d:
     since: 2026-03-14
     release: 0
@@ -74,7 +74,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 2562
+    commit: 2563
   last360d:
     since: 2025-09-15
     release: 0
@@ -82,7 +82,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 4954
+    commit: 4955
   last720d:
     since: 2024-09-20
     release: 0
@@ -90,23 +90,23 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 9405
+    commit: 9406
 total:
   release: 0
   mergedPR: 0
   openPR: 0
   closedIssue: 0
   openIssue: 0
-  commit: 126495
+  commit: 126496
 ---
 path: /home/runner/.x-repo/github.com/FFmpeg/FFmpeg
-collectedAt: 2026-09-10T18:08:14Z
+collectedAt: 2026-09-10T23:54:42Z
 loc:
   C:
-    code: 1252320
-    comments: 127678
-    blanks: 196252
-    files: 3432
+    code: 1252903
+    comments: 127756
+    blanks: 196390
+    files: 3433
   CHeader:
     code: 166768
     comments: 71511
@@ -123,9 +123,9 @@ loc:
     blanks: 7371
     files: 186
   Makefile:
-    code: 15312
-    comments: 622
-    blanks: 3505
+    code: 15387
+    comments: 660
+    blanks: 3529
     files: 180
   Sh:
     code: 9460
@@ -223,10 +223,10 @@ loc:
     blanks: 633
     files: 23
 total:
-  code: 1624109
-  comments: 223704
-  blanks: 244684
-  files: 5460
+  code: 1624767
+  comments: 223820
+  blanks: 244846
+  files: 5461
 ---
 date: "2026-09-07"
 repo:
