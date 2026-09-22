@@ -14,15 +14,15 @@ x install FFmpeg
 
 ## Code insight
 
-Total: **1,628,985** lines of code across **5297** files in the top 5 languages.
+Total: **1,629,248** lines of code across **5297** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 1,256,396 | 128,431 | 196,890 | 3446 |
+| C | 1,256,655 | 128,431 | 196,933 | 3446 |
 | CHeader | 166,802 | 71,697 | 22,412 | 1251 |
 | AssemblyGAS | 92,756 | 8,410 | 9,623 | 233 |
 | Assembly | 68,338 | 8,020 | 7,376 | 186 |
-| Makefile | 15,641 | 741 | 3,571 | 181 |
+| Makefile | 15,650 | 744 | 3,573 | 181 |
 
 ## OpenSSF Scorecard
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 64,382 · **Forks**: 14,281 · **Open issues**: 0 · **Contributors**: 1,576
+- **Stars**: 64,414 · **Forks**: 14,282 · **Open issues**: 0 · **Contributors**: 1,577
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 126735
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 126752
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 260 |
-| last60d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 695 |
-| 90d | 2026-06-23 | 0 | 0 | 0 | 0 | 0 | 1108 |
-| last180d | 2026-03-25 | 0 | 0 | 0 | 0 | 0 | 2549 |
-| 360d | 2025-09-26 | 0 | 0 | 0 | 0 | 0 | 5013 |
-| last720d | 2024-10-01 | 0 | 0 | 0 | 0 | 0 | 9457 |
+| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 277 |
+| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 712 |
+| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 1125 |
+| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 0 | 2566 |
+| 360d | 2025-09-27 | 0 | 0 | 0 | 0 | 0 | 5030 |
+| last720d | 2024-10-02 | 0 | 0 | 0 | 0 | 0 | 9459 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for FFmpeg lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:36:51Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:31:09Z._
