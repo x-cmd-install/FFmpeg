@@ -4,7 +4,7 @@
 
 Mirror of https://git.ffmpeg.org/ffmpeg.git
 
-[![x-cmd/install — FFmpeg Code Quality Monitoring Repo Card](https://repo.x-cmd.io/FFmpeg.svg)](https://x-cmd.com/install/FFmpeg)
+[![x-cmd/install — FFmpeg Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/FFmpeg.svg)](https://x-cmd.com/install/FFmpeg)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install FFmpeg
 
 ## Code insight
 
-Total: **1,629,248** lines of code across **5297** files in the top 5 languages.
+Total: **1,629,376** lines of code across **5297** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 1,256,655 | 128,431 | 196,933 | 3446 |
-| CHeader | 166,802 | 71,697 | 22,412 | 1251 |
+| C | 1,256,766 | 128,450 | 196,948 | 3446 |
+| CHeader | 166,804 | 71,717 | 22,413 | 1251 |
 | AssemblyGAS | 92,756 | 8,410 | 9,623 | 233 |
 | Assembly | 68,338 | 8,020 | 7,376 | 186 |
 | Makefile | 15,650 | 744 | 3,573 | 181 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 64,414 · **Forks**: 14,282 · **Open issues**: 0 · **Contributors**: 1,577
+- **Stars**: 64,443 · **Forks**: 14,282 · **Open issues**: 0 · **Contributors**: 1,577
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 126752
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 126781
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 277 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 712 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 1125 |
-| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 0 | 2566 |
-| 360d | 2025-09-27 | 0 | 0 | 0 | 0 | 0 | 5030 |
-| last720d | 2024-10-02 | 0 | 0 | 0 | 0 | 0 | 9459 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 299 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 737 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 1152 |
+| last180d | 2026-03-27 | 0 | 0 | 0 | 0 | 0 | 2593 |
+| 360d | 2025-09-28 | 0 | 0 | 0 | 0 | 0 | 5057 |
+| last720d | 2024-10-03 | 0 | 0 | 0 | 0 | 0 | 9476 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for FFmpeg lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:31:09Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:37:34Z._
