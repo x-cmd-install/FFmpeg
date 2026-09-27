@@ -316,3 +316,4 @@ checks:
       - 'Info: CLibFuzzer integration found: tools/target_swr_fuzzer.c:70'
       - 'Info: CLibFuzzer integration found: tools/target_sws_fuzzer.c:35'
       - 'Info: CLibFuzzer integration found: tools/target_sws_fuzzer.c:89'
+---
