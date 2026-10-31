@@ -2,30 +2,30 @@ about:
   description: "Mirror of https://git.ffmpeg.org/ffmpeg.git"
   license: NOASSERTION
   homepage: https://ffmpeg.org/
-  head: 60a2818
+  head: df29266
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-30T07:10:27Z
+  collectedAt: 2026-10-31T06:56:52Z
 timeline:
   created: 2011-04-14
-  lastCommit: 2026-10-30
+  lastCommit: 2026-10-31
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 66050
+  star: 66102
   watcher: 1552
-  fork: 14466
+  fork: 14476
   release: 0
   contributor: 1617
   pullRequest: 0
   issue: 0
 language:
-  C: 71603901
-  Assembly: 6739273
-  Makefile: 1253854
+  C: 71611313
+  Assembly: 6741457
+  Makefile: 1254879
   GLSL: 353270
   C++: 239849
   Cuda: 129506
@@ -42,71 +42,71 @@ language:
   Roff: 1225
   Verilog: 638
   TypeScript: 160
-totalBytes: 80633499
+totalBytes: 80644120
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 938
+    commit: 956
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 1600
+    commit: 1617
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 2066
+    commit: 2083
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 3466
+    commit: 3483
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 6185
+    commit: 6202
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 0
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 10482
+    commit: 10487
 total:
   release: 0
   mergedPR: 0
   openPR: 0
   closedIssue: 0
   openIssue: 0
-  commit: 128210
+  commit: 128225
 ---
 path: /home/runner/.x-repo/github.com/FFmpeg/FFmpeg
-collectedAt: 2026-10-30T07:15:05Z
+collectedAt: 2026-10-31T06:58:33Z
 loc:
   C:
-    code: 1272784
-    comments: 130774
-    blanks: 199241
+    code: 1272949
+    comments: 130788
+    blanks: 199267
     files: 3484
   CHeader:
     code: 169388
@@ -119,14 +119,14 @@ loc:
     blanks: 9721
     files: 236
   Assembly:
-    code: 70064
-    comments: 8160
-    blanks: 7623
+    code: 70137
+    comments: 8171
+    blanks: 7627
     files: 189
   Makefile:
-    code: 16571
-    comments: 882
-    blanks: 3796
+    code: 16581
+    comments: 886
+    blanks: 3797
     files: 184
   Sh:
     code: 9467
@@ -229,9 +229,9 @@ loc:
     blanks: 635
     files: 23
 total:
-  code: 1652901
-  comments: 229106
-  blanks: 248864
+  code: 1653149
+  comments: 229135
+  blanks: 248895
   files: 5543
 ---
 date: "2026-10-26"
