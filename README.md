@@ -14,15 +14,15 @@ x install FFmpeg
 
 ## Code insight
 
-Total: **1,655,897** lines of code across **5405** files in the top 5 languages.
+Total: **1,656,758** lines of code across **5410** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 1,275,446 | 131,579 | 199,724 | 3512 |
-| CHeader | 169,755 | 73,386 | 22,821 | 1284 |
-| AssemblyGAS | 93,347 | 8,596 | 9,720 | 236 |
+| C | 1,275,905 | 131,678 | 199,787 | 3515 |
+| CHeader | 169,757 | 73,386 | 22,821 | 1284 |
+| AssemblyGAS | 93,669 | 8,650 | 9,733 | 238 |
 | Assembly | 70,129 | 8,174 | 7,635 | 189 |
-| Makefile | 16,536 | 895 | 3,802 | 184 |
+| Makefile | 16,611 | 899 | 3,813 | 184 |
 
 ## OpenSSF Scorecard
 
@@ -30,9 +30,9 @@ Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 
 ## Source
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 66,356 · **Forks**: 14,516 · **Open issues**: 0 · **Contributors**: 1,622
+- **Stars**: 66,446 · **Forks**: 14,511 · **Open issues**: 0 · **Contributors**: 1,625
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 128345
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 128406
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 833 |
-| last60d | 2026-09-04 | 0 | 0 | 0 | 0 | 0 | 1634 |
-| 90d | 2026-08-05 | 0 | 0 | 0 | 0 | 0 | 2126 |
-| last180d | 2026-05-07 | 0 | 0 | 0 | 0 | 0 | 3552 |
-| 360d | 2025-11-08 | 0 | 0 | 0 | 0 | 0 | 6248 |
-| last720d | 2024-11-13 | 0 | 0 | 0 | 0 | 0 | 10581 |
+| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 0 | 891 |
+| last60d | 2026-09-05 | 0 | 0 | 0 | 0 | 0 | 1693 |
+| 90d | 2026-08-06 | 0 | 0 | 0 | 0 | 0 | 2185 |
+| last180d | 2026-05-08 | 0 | 0 | 0 | 0 | 0 | 3611 |
+| 360d | 2025-11-09 | 0 | 0 | 0 | 0 | 0 | 6307 |
+| last720d | 2024-11-14 | 0 | 0 | 0 | 0 | 0 | 10635 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for FFmpeg lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:16:15Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:46:19Z._
